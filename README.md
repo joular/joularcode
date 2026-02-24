@@ -1,4 +1,6 @@
-# joularcode
+# Joular Code
+
+- [Joular Code - Java](https://github.com/joular/joularcode-java): a lightweight, cross-platform agent for measuring source-code power consumption in Java applications
 
 ## :newspaper: License
 
@@ -8,3 +10,4 @@ Copyright © 2025-2026, Adel Noureddine.
 All rights reserved. This program and the accompanying materials are made available under the terms of the [GNU Lesser General Public License v3.0 (LGPL-3.0-only)](https://www.gnu.org/licenses/lgpl-3.0.en.html) which accompanies this distribution.
 
 Author : Prof. Adel Noureddine
+
