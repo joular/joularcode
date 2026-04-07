@@ -1,4 +1,4 @@
-# Joular Code
+# <a href="https://www.noureddine.org/research/joular/"><img src="https://raw.githubusercontent.com/joular/.github/main/profile/joular.png" alt="Joular Project" width="64" /></a> Joular Code
 
 Joular Code is a platform and methodology for measuring the energy consumption of software at the source-code level across programming languages, platforms, and operating systems.
 
@@ -15,4 +15,4 @@ Joular Core is licensed under the GNU LGPL 3 license only (LGPL-3.0-only).
 Copyright © 2025-2026, Adel Noureddine.
 All rights reserved. This program and the accompanying materials are made available under the terms of the [GNU Lesser General Public License v3.0 (LGPL-3.0-only)](https://www.gnu.org/licenses/lgpl-3.0.en.html) which accompanies this distribution.
 
-Author : Prof. Adel Noureddine
+Author: Prof. Adel Noureddine
