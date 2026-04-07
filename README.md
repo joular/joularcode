@@ -10,7 +10,7 @@ It consists of a collection of software and tools, with implementations for vari
 
 ## Other Tools
 
-- [Joular Code Java - Viewer](https://github.com/joular/joularcode-java-viewer) is a desktop GUI application for visualising and analysing the energy and power consumption data produced by Joular Code - Java.
+- [Joular Code Java - Viewer](https://github.com/joular/joularcode-java-viewer): a desktop GUI application for visualising and analysing the energy and power consumption data produced by Joular Code - Java.
 
 ## :newspaper: License
 
