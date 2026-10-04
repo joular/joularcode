@@ -6,15 +6,15 @@ It consists of a collection of software and tools, with implementations for vari
 
 ## Available Software
 
-- [Joular Code - Java](https://github.com/joular/joularcode-java): a lightweight, cross-platform agent for measuring source-code power consumption in Java applications
+- [Joular Code for Java](https://github.com/joular/joularcode-java): a lightweight, cross-platform agent for measuring source-code power consumption in Java applications
 
 ## Other Tools
 
-- [Joular Code Java - Viewer](https://github.com/joular/joularcode-java-viewer): a desktop GUI application for visualising and analysing the energy and power consumption data produced by Joular Code - Java.
+- [Joular Code Java - Viewer](https://github.com/joular/joularcode-java-viewer): a desktop GUI application for visualising and analysing the energy and power consumption data produced by Joular Code for Java.
 
 ## :newspaper: License
 
-Joular Core is licensed under the GNU LGPL 3 license only (LGPL-3.0-only).
+Joular Code is licensed under the GNU LGPL 3 license only (LGPL-3.0-only).
 
 Copyright © 2025-2026, Adel Noureddine.
 All rights reserved. This program and the accompanying materials are made available under the terms of the [GNU Lesser General Public License v3.0 (LGPL-3.0-only)](https://www.gnu.org/licenses/lgpl-3.0.en.html) which accompanies this distribution.
