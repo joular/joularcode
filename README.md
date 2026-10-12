@@ -1,5 +1,7 @@
 # <a href="https://www.noureddine.org/research/joular/"><img src="https://raw.githubusercontent.com/joular/.github/main/profile/joular.png" alt="Joular Project" width="64" /></a> Joular Code
 
+![Joular Code Logo](joularcode.png)
+
 Joular Code is a platform and methodology for measuring the energy consumption of software at the source-code level across programming languages, platforms, and operating systems.
 
 It consists of a collection of software and tools, with implementations for various programming languages.
